@@ -68,3 +68,13 @@ theme[download_end]="#798186"
 theme[upload_start]="#d9dbdc"
 theme[upload_mid]="#b2b7ba"
 theme[upload_end]="#798186"
+
+# Graph gradient colors (spectrum shades from background to foreground)
+theme[gradient_color_0]="#101315"
+theme[gradient_color_1]="#343d41"
+theme[gradient_color_2]="#4b4e55"
+theme[gradient_color_3]="#5d6367"
+theme[gradient_color_4]="#798186"
+theme[gradient_color_5]="#9fa5a9"
+theme[gradient_color_6]="#a5aeb4"
+theme[gradient_color_7]="#cacccc"

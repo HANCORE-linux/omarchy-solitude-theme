@@ -260,6 +260,7 @@ span[class*="textBadge"] {
 /*--- Mention Interactive Hover Color ---*/
 .mention.interactive:hover {
     background-color: var(--base04) !important;
+    color: var(--base00) !important;
 }
 
 /*--- Followed Posts Tree/Spine Icon ---*/

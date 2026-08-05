@@ -1,0 +1,148 @@
+# Omarchy Quattro surfaces for Solitude.
+# Opaque charcoal panels, a quiet vertical steel gradient, and a restrained
+# translucent steel selection preserve the theme's sparse monochrome character.
+
+[bar]
+background = "#101315"
+background-alpha = 1.0
+text = "#CACCCC"
+active = "#798186"
+scale-with-font = true
+size-horizontal = 26
+size-vertical = 28
+
+[hyprland]
+active-border = "rgba(101315ee) rgba(798186ee) 90deg"
+active-border-foreground = "#CACCCC"
+
+[controls]
+normal-color = "#4B4E55"
+normal-fill-alpha = 0.08
+normal-border-width = 1
+normal-border-alpha = 0.38
+
+hover-cursor-color = "#CACCCC"
+hover-cursor-fill-alpha = 0.12
+hover-cursor-border-width = 1
+hover-cursor-border-alpha = 0.54
+
+focus-color = "#798186"
+focus-fill-alpha = 0.18
+focus-border-width = 1
+focus-border-alpha = 0.82
+
+selected-color = "#9FA5A9"
+selected-fill-alpha = 0.20
+selected-border-width = 1
+selected-border-alpha = 0.52
+
+pressed-color = "#DE6145"
+pressed-fill-alpha = 0.24
+selection-color = "#798186"
+selection-fill-alpha = 0.38
+
+[spacing]
+scale = 1.0
+scale-with-font = true
+xs = 2
+md = 4
+control-padding-y = 5
+panel-padding = 10
+
+[font]
+base-size = 12
+heading = 16
+icon-large = 18
+
+[popups]
+background = "#101315"
+background-alpha = 1.0
+text = "#CACCCC"
+border = "hyprland.active-border"
+border-alpha = 1.0
+border-width = 2
+
+[tooltip]
+background = "#101315"
+background-alpha = 0.98
+text = "#CACCCC"
+border = "#2F353B"
+border-alpha = 1.0
+border-width = 1
+
+[notifications]
+background = "#101315"
+background-alpha = 1.0
+text = "#CACCCC"
+border = "hyprland.active-border"
+border-alpha = 1.0
+border-width = 2
+countdown = "#DE6145"
+
+[launcher]
+background = "#101315"
+background-alpha = 1.0
+text = "#CACCCC"
+border = "hyprland.active-border"
+border-alpha = 1.0
+border-width = 2
+scrim = "#101315"
+scrim-alpha = 0.0
+selected-background = "#798186"
+selected-background-alpha = 0.55
+selected-text = "#CACCCC"
+selected-border = "#798186"
+selected-border-alpha = 0.0
+selected-border-width = 0
+
+[menu]
+background = "#101315"
+background-alpha = 1.0
+text = "#CACCCC"
+border = "hyprland.active-border"
+border-alpha = 1.0
+border-width = 2
+scrim = "#101315"
+scrim-alpha = 0.0
+selected-background = "#798186"
+selected-background-alpha = 0.55
+selected-text = "#CACCCC"
+selected-border = "#798186"
+selected-border-alpha = 0.0
+selected-border-width = 0
+
+[polkit]
+background = "#101315"
+background-alpha = 1.0
+text = "#CACCCC"
+text-error = "#DE6145"
+border = "hyprland.active-border"
+border-error = "#DE6145"
+border-alpha = 1.0
+border-width = 2
+scrim = "#101315"
+scrim-alpha = 0.52
+accent = "#798186"
+
+[lock]
+background = "#101315"
+background-alpha = 1.0
+text = "#CACCCC"
+placeholder = "#CACCCCB3"
+text-error = "#DE6145"
+border = "hyprland.active-border"
+border-active = "hyprland.active-border"
+border-error = "#DE6145"
+border-alpha = 1.0
+border-width = 2
+selection = "#343D41"
+selection-alpha = 0.52
+
+[image-picker]
+scrim = "#101315"
+scrim-alpha = 0.52
+text = "#CACCCC"
+selected-border = "#A8ADB0"
+selected-border-alpha = 1.0
+unselected-border = "#2F353B"
+unselected-border-alpha = 1.0
